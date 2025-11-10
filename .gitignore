@@ -2,15 +2,3 @@ node_modules
 .next
 .env
 .env.local
-npm-debug.log*
-yarn-debug.log*
-.yarn
-dist
-out
-
-node_modules
-.next
-.env
-.env.local
-node_modules
-.next
